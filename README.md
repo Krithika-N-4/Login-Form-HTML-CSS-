@@ -30,4 +30,4 @@ This project aims to create a stylish login form that features:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/login-form-project.git
+   git clone https://github.com/Krithika-N-4/Login-Form-HTML-CSS-.git

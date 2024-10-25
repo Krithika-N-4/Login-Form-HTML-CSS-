@@ -1,4 +1,4 @@
-# Login Form Project
+# Login Form (HTML & CSS)
 
 A sleek and modern login form created using HTML and CSS. This project demonstrates how to create a beautiful and user-friendly login form with icons, a background image, and a responsive design.
 
